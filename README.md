@@ -1,2 +1,2 @@
 # password-gen
- password-generator with high-security, high-performance generated password in python, written by vali-github
+ password-generator with high-security generated password in python
