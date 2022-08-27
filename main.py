@@ -1,4 +1,4 @@
-# high security password generator in python, written by vali-github
+# high security password generator in python, written by saint
 # Copyright © Alperen Yilmaz aka. vali-github 2022 - All Rights Reserved
 
 import random
