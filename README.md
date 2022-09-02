@@ -1,2 +1,2 @@
 # password-gen
- password-generator with high-security generated password in python
+random password generator in python 3. its as secure as a password can get... so, use it and stay safe people
